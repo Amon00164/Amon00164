@@ -23,25 +23,6 @@
     
     
     <entry>
-      <title>第二篇文章</title>
-      <link href="/2024/09/17/2024-9-17%20%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2024/09/17/2024-9-17%20%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-      
-        <content type="html"><![CDATA[<p>高桥社第二篇</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 长篇小说连载 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>第七篇文章</title>
       <link href="/2024/09/17/2024-9-17%20%E7%AC%AC%E4%B8%83%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2024/09/17/2024-9-17%20%E7%AC%AC%E4%B8%83%E7%AF%87%E6%96%87%E7%AB%A0/</url>
@@ -80,11 +61,11 @@
     
     
     <entry>
-      <title>第八篇文章</title>
-      <link href="/2024/09/17/2024-9-17%20%E7%AC%AC%E5%85%AB%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2024/09/17/2024-9-17%20%E7%AC%AC%E5%85%AB%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>第二篇文章</title>
+      <link href="/2024/09/17/2024-9-17%20%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/09/17/2024-9-17%20%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<p>某某某</p>]]></content>
+        <content type="html"><![CDATA[<p>高桥社第二篇</p>]]></content>
       
       
       <categories>
@@ -118,11 +99,11 @@
     
     
     <entry>
-      <title>第六篇文章</title>
-      <link href="/2024/09/17/2024-9-17%20%E7%AC%AC%E5%85%AD%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2024/09/17/2024-9-17%20%E7%AC%AC%E5%85%AD%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>第八篇文章</title>
+      <link href="/2024/09/17/2024-9-17%20%E7%AC%AC%E5%85%AB%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/09/17/2024-9-17%20%E7%AC%AC%E5%85%AB%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<p>这是第六篇文章</p>]]></content>
+        <content type="html"><![CDATA[<p>某某某</p>]]></content>
       
       
       <categories>
@@ -147,6 +128,25 @@
       <categories>
           
           <category> Python </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第六篇文章</title>
+      <link href="/2024/09/17/2024-9-17%20%E7%AC%AC%E5%85%AD%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/09/17/2024-9-17%20%E7%AC%AC%E5%85%AD%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<p>这是第六篇文章</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 长篇小说连载 </category>
           
       </categories>
       
