@@ -4,11 +4,176 @@
   
     
     <entry>
+      <title>第三篇文章</title>
+      <link href="/2024/09/17/2024-9-17%20%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/09/17/2024-9-17%20%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<p>高桥社设定暂定</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第七篇文章</title>
+      <link href="/2024/09/17/2024-9-17%20%E7%AC%AC%E4%B8%83%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/09/17/2024-9-17%20%E7%AC%AC%E4%B8%83%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<p>高桥社第一篇</p><p>高桥社团圆一天。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇文章</title>
+      <link href="/2024/09/17/2024-9-17%20%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/09/17/2024-9-17%20%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<p>高桥社第一篇</p><p>高桥社团圆一天。</p><ul><li>彩色文字<br>在一段话中方便插入各种颜色的标签，包括：<span class='p red'>红色</span>、<span class='p yellow'>黄色</span>、<span class='p green'>绿色</span>、<span class='p cyan'>青色</span>、<span class='p blue'>蓝色</span>、<span class='p gray'>灰色</span>。</li><li>超大号文字<br>文档「开始」页面中的标题部分就是超大号文字。<span class='p center logo large'>Volantis</span><span class='p center small'>A Wonderful Theme for Hexo</span></li></ul><ol><li>带 <u>下划线</u> 的文本</li><li>带 <emp>着重号</emp> 的文本</li><li>带 <wavy>波浪线</wavy> 的文本</li><li>带 <del>删除线</del> 的文本</li><li>键盘样式的文本 <kbd>command</kbd> + <kbd>D</kbd></li><li>密码样式的文本：<psw>这里没有验证码</psw></li></ol><ul><li>彩色文字<br>在一段话中方便插入各种颜色的标签，包括：<p class='p red'>红色</p>、<p class='p yellow'>黄色</p>、<p class='p green'>绿色</p>、<p class='p cyan'>青色</p>、<p class='p blue'>蓝色</p>、<p class='p gray'>灰色</p>。</li><li>超大号文字<br>文档「开始」页面中的标题部分就是超大号文字。<p class='p center logo large'>Volantis</p><p class='p center small'>A Wonderful Theme for Hexo</p></li></ul><div class="note simple"><p>默认 提示块标签</p></div><div class="note default simple"><p>default 提示块标签</p></div><div class="note primary simple"><p>primary 提示块标签</p></div><div class="note success simple"><p>success 提示块标签</p></div><div class="note info simple"><p>info 提示块标签</p></div><div class="note warning simple"><p>warning 提示块标签</p></div><div class="note danger simple"><p>danger 提示块标签</p></div><div class="note modern"><p>默认 提示块标签</p></div><div class="note default modern"><p>default 提示块标签</p></div><div class="note primary modern"><p>primary 提示块标签</p></div><div class="note success modern"><p>success 提示块标签</p></div><div class="note info modern"><p>info 提示块标签</p></div><div class="note warning modern"><p>warning 提示块标签</p></div><div class="note danger modern"><p>danger 提示块标签</p></div><div class="note no-icon flat"><p>默认 提示块标签</p></div><div class="note default no-icon flat"><p>default 提示块标签</p></div><div class="note primary no-icon flat"><p>primary 提示块标签</p></div><div class="note success no-icon flat"><p>success 提示块标签</p></div><div class="note info no-icon flat"><p>info 提示块标签</p></div><div class="note warning no-icon flat"><p>warning 提示块标签</p></div><div class="note danger no-icon flat"><p>danger 提示块标签</p></div><div class="tip warning faa-horizontal animated"><p>warning</p></div><div class="tip ban faa-flash animated"><p>ban</p></div><div class="tip "><p>default</p></div><div class="tip info"><p>info</p></div><div class="tip success"><p>success</p></div><div class="tip error"><p>error</p></div><div class="tip warning"><p>warning</p></div><div class="tip bolt"><p>bolt</p></div><div class="tip ban"><p>ban</p></div><div class="tip home"><p>home</p></div><div class="tip sync"><p>sync</p></div><div class="tip cogs"><p>cogs</p></div><div class="tip key"><p>key</p></div><div class="tip bell"><p>bell</p></div><div class="tip fa-atom"><p>自定义font awesome图标</p></div><div class="tip warning faa-horizontal animated faa-fast"><p>warning</p></div><div class="tip ban faa-flash animated faa-slow"><p>ban</p></div><div class='checkbox'><input type="checkbox" />            <p>纯文本测试</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>支持简单的 <a href="https://guides.github.com/features/mastering-markdown/">markdown</a> 语法</p>            </div><div class='checkbox red'><input type="checkbox" />            <p>支持自定义颜色</p>            </div><div class='checkbox green checked'><input type="checkbox" checked="checked"/>            <p>绿色 + 默认选中</p>            </div><div class='checkbox yellow checked'><input type="checkbox" checked="checked"/>            <p>黄色 + 默认选中</p>            </div><div class='checkbox cyan checked'><input type="checkbox" checked="checked"/>            <p>青色 + 默认选中</p>            </div><div class='checkbox blue checked'><input type="checkbox" checked="checked"/>            <p>蓝色 + 默认选中</p>            </div><div class='checkbox plus green checked'><input type="checkbox" checked="checked"/>            <p>增加</p>            </div><div class='checkbox minus yellow checked'><input type="checkbox" checked="checked"/>            <p>减少</p>            </div><div class='checkbox times red checked'><input type="checkbox" checked="checked"/>            <p>叉</p>            </div><div class='checkbox'><input type="radio" />            <p>纯文本测试</p>            </div><div class='checkbox checked'><input type="radio" checked="checked"/>            <p>支持简单的 <a href="https://guides.github.com/features/mastering-markdown/">markdown</a> 语法</p>            </div><div class='checkbox red'><input type="radio" />            <p>支持自定义颜色</p>            </div><div class='checkbox green'><input type="radio" />            <p>绿色</p>            </div><div class='checkbox yellow'><input type="radio" />            <p>黄色</p>            </div><div class='checkbox cyan'><input type="radio" />            <p>青色</p>            </div><div class='checkbox blue'><input type="radio" />            <p>蓝色</p>            </div><div class='checkbox'><input type="radio" />            <p>纯文本测试</p>            </div><div class='checkbox checked'><input type="radio" checked="checked"/>            <p>支持简单的 <a href="https://guides.github.com/features/mastering-markdown/">markdown</a> 语法</p>            </div><div class='checkbox red'><input type="radio" />            <p>支持自定义颜色</p>            </div><div class='checkbox green'><input type="radio" />            <p>绿色</p>            </div><div class='checkbox yellow'><input type="radio" />            <p>黄色</p>            </div><div class='checkbox cyan'><input type="radio" />            <p>青色</p>            </div><div class='checkbox blue'><input type="radio" />            <p>蓝色</p>            </div><div class="tag link"><a class="link-card" title="糖果屋教程贴" href="https://akilar.top/posts/615e2dec/"><div class="left"><img src="/img/siteicon/favicon.ico"/></div><div class="right"><p class="text">糖果屋教程贴</p><p class="url">https://akilar.top/posts/615e2dec/</p></div></a></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第二篇文章</title>
+      <link href="/2024/09/17/2024-9-17%20%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/09/17/2024-9-17%20%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<p>高桥社第二篇</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 长篇小说连载 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第五篇文章</title>
+      <link href="/2024/09/17/2024-9-17%20%E7%AC%AC%E4%BA%94%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/09/17/2024-9-17%20%E7%AC%AC%E4%BA%94%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<p>It’s a beautify day outside.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第六篇文章</title>
+      <link href="/2024/09/17/2024-9-17%20%E7%AC%AC%E5%85%AD%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/09/17/2024-9-17%20%E7%AC%AC%E5%85%AD%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<p>这是第六篇文章</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 长篇小说连载 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第八篇文章</title>
+      <link href="/2024/09/17/2024-9-17%20%E7%AC%AC%E5%85%AB%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/09/17/2024-9-17%20%E7%AC%AC%E5%85%AB%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<p>某某某</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 长篇小说连载 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第四篇文章</title>
+      <link href="/2024/09/17/2024-9-17%20%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/09/17/2024-9-17%20%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<p>whois协议发现。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2024/09/17/hello-world/"/>
       <url>/2024/09/17/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Copyright-beautify</title>
+      <link href="/2021/03/02/2024-9-17%20%E7%AC%AC%E4%B9%9D%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2021/03/02/2024-9-17%20%E7%AC%AC%E4%B9%9D%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
       
       
